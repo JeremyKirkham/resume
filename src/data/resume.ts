@@ -43,9 +43,9 @@ export interface Resume {
 
 export const resume: Resume = {
   name: 'Jeremy Kirkham',
-  title: 'Tech Lead',
+  title: 'Software Engineer',
   summary:
-    'Tech Lead with 15+ years of web development experience, including a decade building proptech at scale at Equiem. I own system architecture and technical vision for my domain, build high-performing teams, and love tackling hard problems at scale — from federated GraphQL APIs serving 50,000+ MAUs across three regions to establishing responsible AI engineering practices.',
+    'Software Engineer with 15+ years of web development experience, including a decade building proptech at scale at Equiem. I own system architecture and technical vision for my domain, build high-performing teams, and love tackling hard problems at scale — from federated GraphQL APIs serving 50,000+ MAUs across three regions to establishing responsible AI engineering practices.',
   github: 'https://github.com/JeremyKirkham',
 
   skills: [
